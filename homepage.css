@@ -1,0 +1,23 @@
+body {
+  background-color: #60d060;
+}
+
+.jumbotron {
+	background-image: url("http://www.lifewithcats.tv/wp-content/uploads/2015/04/vcvxvcxvcx.jpg");
+	background-repeat: no-repeat;
+	background-position: center;
+	padding: 150px;
+	
+	text-align: center;
+	font-size: 50px;
+	font-family: Helvetica;
+	color:#000;
+	
+}
+.jumbotron .nav {
+	text-align: center;
+	font-size: 24px;
+	font-family: Times;
+	color: #000;
+	
+}
