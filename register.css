@@ -1,0 +1,19 @@
+body {
+  background-color:	#60d060;
+}
+
+.nav {
+	font-size:	24px;
+}
+.jumbotron {
+	background-image:		url("http://i.ytimg.com/vi/tntOCGkgt98/maxresdefault.jpg");
+	background-repeat:		no-repeat;
+	background-position:	center;
+	padding:				150px;
+	
+	text-align:		center;
+	font-size:		50px;
+	font-family:	Helvetica;
+	color:			#000;
+	
+}
