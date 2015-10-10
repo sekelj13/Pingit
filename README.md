@@ -1,2 +1,2 @@
 # Pingit
-Pingit Repository
+Pingit main repository
